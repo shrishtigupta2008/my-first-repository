@@ -1,1 +1,2 @@
-# my-first-repository
+tech stack;
+ c 
