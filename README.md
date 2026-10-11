@@ -1,2 +1,2 @@
 tech stack;
- c 
+beginner to c 
